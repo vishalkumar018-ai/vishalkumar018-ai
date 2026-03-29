@@ -1,4 +1,6 @@
-## 🌐 Socials:
+ABOUT ME :
+I’m Vishal Kumar, a B.Tech student in Computer Science specializing in AI & ML. I’m passionate about learning new technologies, building AI/ML projects, and improving my programming skills, especially in Python. I enjoy exploring how technology can solve real-world problems and continuously work on growing my knowledge and experience.
+ ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_vishalbaghel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal kumar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Enter a keyword, description, or domain name) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Vishal kumar ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishalsingh12qa@gmail.com) 
 
 # 💻 Tech Stack:
