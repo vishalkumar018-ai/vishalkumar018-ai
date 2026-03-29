@@ -1,7 +1,3 @@
-# 💫 About Me:
- I’m currently working on:<br>Building my skills in programming and working on small projects to improve my experience.<br><br> I’m looking to collaborate on:<br>Open-source projects, beginner-friendly coding tasks, or creative ideas.<br><br> I’m looking for help with:<br>Improving my coding skills and understanding advanced concepts.<br><br> I’m currently learning:<br>Programming languages and problem-solving techniques.<br><br> Ask me about:<br>Basic coding, my projects, or anything I’m learning.<br>  Fun fact:<br>I enjoy learning new things and challenging myself every day!<br>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_vishalbaghel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal kumar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Enter a keyword, description, or domain name) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Vishal kumar ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishalsingh12qa@gmail.com) 
 
